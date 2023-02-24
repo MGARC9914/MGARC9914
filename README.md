@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
+  - - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MGARC9914/AD)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/MGARC9914/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MGARC9914/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MGARC9914/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/MGARC9914/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
